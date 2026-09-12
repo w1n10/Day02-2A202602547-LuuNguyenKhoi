@@ -4,10 +4,10 @@
 
 ## Thông tin cá nhân
 
-- Họ và tên:
-- Mã học viên:
-- Nhóm:
-- Candidate problem nhóm chọn:
+- Họ và tên: Lưu Nguyên Khôi
+- Mã học viên: 2A202602547  
+- Nhóm: 67
+- Candidate problem nhóm chọn: Thẩm định đề tài Capstone
 
 ---
 
@@ -17,21 +17,21 @@ Ghi việc cụ thể + kết quả cụ thể. Không ghi chung chung kiểu "t
 
 | Hoạt động | Tôi đã làm gì? (việc cụ thể) | Kết quả / ảnh hưởng tới nhóm |
 |---|---|---|
-| Scan cá nhân | | |
-| Pitch Problem Card | | |
-| Challenge bài của bạn khác | | |
-| Gom trùng / cluster | | |
-| Chọn candidate problem | | |
-| Validation / research | | |
-| Workflow nhóm | | |
-| Problem Statement | | |
-| Rule / Workflow / Agent | | |
-| Decision | | |
+| Scan cá nhân | Đặt ra pain | 1 trong 5 được chọn thành problem nhóm |
+| Pitch Problem Card | Đặt ra pain tìm hướng giải quyết rõ ràng | Làm Candidate nhóm |
+| Challenge bài của bạn khác | Các đề tài thiếu thực tế vì không thể so với bằng các công cụ có sẵn| |
+| Gom trùng / cluster | Đưa 3 candidate (#10, #11, #12) vào vòng gom cụm 9→12; candidate #10 được xếp vào Cluster A (Thẩm định & đối chiếu tiêu chí) | Cluster A trở thành 1 trong 2 cụm mạnh nhất của nhóm, dẫn tới #10 lọt vào shortlist |
+| Chọn candidate problem | Trình bày rõ bằng chứng pain point và cách đo lường cho candidate #10 khi nhóm chấm điểm | Candidate #10 đạt điểm cao nhất (33/35) trong bảng score, được nhóm chọn làm bài chính thức |
+| Validation / research | Rà soát bảng validation/research do AI soạn| Bảng research giữ được 4 nguồn có link kiểm được|
+| Workflow nhóm | Cung cấp chi tiết thực tế về cách hội đồng thẩm định capstone hoạt động để dựng thành workflow 7 bước trước/sau | Workflow trước/sau có đủ actor, input/output, thời gian, được nhóm dùng làm bản chính thức |
+| Problem Statement | Yêu cầu bổ sung rõ "ai thẩm định" (hội đồng) và kết quả pass/fail theo checklist vào Boundary | Boundary rõ ràng hơn, tránh hiểu lầm AI tự quyết định duyệt đề tài |
+| Rule / Workflow / Agent | Tự phát hiện mâu thuẫn: ban đầu chọn "Độ mơ hồ Thấp" nhưng lý do lại mô tả việc đánh giá trùng lặp/thiết yếu là chủ quan — yêu cầu sửa lại thành "Cao" và viết lại lý do cho nhất quán | Lập luận chọn Workflow chặt chẽ hơn, không còn mâu thuẫn nội bộ |
+| Decision | Không đồng ý với kết luận "Not Yet" ban đầu | Đổi Final Decision thành Go (scope nhỏ, ưu tiên checklist trước), có pilot cụ thể hơn |
 
 **Dấu tay rõ nhất của tôi trong artifact cuối (1-2 câu):**
 
 ```text
-
+Là người đưa ra pitch đề tài được sử dụng. Cũng như nêu workflow và tĩnh cấp thiết cũng như lợi ích của artifact sát thực tế nhất dựa trên sản phẩm đã làm qua. Và thuyết trình
 ```
 
 ---
@@ -40,13 +40,13 @@ Ghi việc cụ thể + kết quả cụ thể. Không ghi chung chung kiểu "t
 
 | Phase | Tôi dùng AI để làm gì? | AI hữu ích ở đâu? | AI sai / hời hợt ở đâu? | Tôi sửa gì bằng nhận định của mình? |
 |---|---|---|---|---|
-| Scan | | | | |
-| Problem Card | | | | |
-| Workflow | | | | |
-| Research | | | | |
-| Problem Statement | | | | |
-| Rule / Workflow / Agent | | | | |
-| Decision | | | | |
+| Scan |Detail các pain point cũng như cách giải quyết và điền vào |Nhanh, chính xác |Gợi ý vài pain point không thực tế | |
+| Problem Card | AI hỗ trợ tạo problem và context mẫu | Tốt, làm ok|Không |Tinh chỉnh nội dung |
+| Workflow |Chỉnh sửa workflow tự nghiên cứu | Tốt, làm ok|Không |Tinh chỉnh nội dung |
+| Research |AI hỗ trợ tìm các đối thủ cạnh tranh  | Tốt, làm ok|Không |Tinh chỉnh nội dung |
+| Problem Statement |Không hỗ trợ | | | |
+| Rule / Workflow / Agent |AI gợi ý |Không đúng | |Tự quyết định thay đổi sao với AI |
+| Decision |Ai gợi ý|Không đúng | |Tự quyết định thay đổi sao với AI |
 
 > Nếu phase nào không dùng AI, ghi `Không dùng` và vì sao tự làm.
 
