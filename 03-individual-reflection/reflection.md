@@ -65,9 +65,7 @@ Chọn 3-4 câu trong 6 câu dưới để viết thành đoạn 8-12 câu (khô
 **Reflection:**
 
 ```text
-
-
-
+Dấu tay rõ nhất của tôi trong artifact cuối là việc đưa ra pitch "Thẩm định đề tài Capstone" ngay từ vòng scan cá nhân, rồi trực tiếp thuyết trình để candidate này thuyết phục được cả nhóm và đạt điểm cao nhất (33/35) khi chấm. Tôi cũng không dừng ở ý tưởng: tôi cung cấp chi tiết thực tế về cách hội đồng thẩm định capstone hoạt động để nhóm dựng được workflow 7 bước trước/sau, và yêu cầu bổ sung rõ ai mới là người thẩm định cuối cùng vào Boundary, vì bản đầu chỉ nói AI đưa cảnh báo mà không nói rõ ai quyết định. Khi nghe top 3 problems của các bạn khác, tôi có challenge một vài đề tài vì thấy chúng thiếu thực tế, không thể so sánh được với các công cụ đã có sẵn, nên khó chứng minh AI thực sự cần thiết ở đó. Phần khó nhất với tôi khi viết Problem Statement không phải là đặt metric, mà là boundary: ranh giới giữa AI "hỗ trợ thẩm định theo checklist" và AI "tự quyết định duyệt" rất dễ bị viết mập mờ nếu không tự soi lại. Tôi cũng đổi ý hai lần rõ rệt trong lúc làm: ở phần Rule/Workflow/Agent, AI gợi ý một hướng tôi thấy không đúng với bản chất bài toán, nên tôi tự quyết định sửa lại lý do phân tích thay vì giữ nguyên gợi ý của AI. Lần thứ hai là ở Decision, AI gợi ý kết luận không đúng với thực tế bài toán, nên tôi tự quyết định thay đổi so với AI, chuyển quyết định cuối thành "Go" với phạm vi nhỏ. Hai lần đó cho tôi thấy AI có thể gợi ý sai hướng nếu mình không hiểu rõ bài toán của chính mình, và việc của tôi là phải tự kiểm tra lại từng kết luận trước khi chấp nhận, chứ không copy nguyên. Nếu làm lại, tôi nghĩ tôi nên challenge nhóm mạnh hơn ở phần validation, vì số liệu khảo sát hiện tại vẫn chỉ là ước lượng minh họa, chưa ai thật sự đi phỏng vấn giảng viên hay hội đồng trước khi chốt bài. Nhìn lại, tôi tự tin nhất ở phần mình chủ động đọc lại và sửa những chỗ AI làm chưa đúng, thay vì chấp nhận bản nháp đầu tiên.
 ```
 
 ---
